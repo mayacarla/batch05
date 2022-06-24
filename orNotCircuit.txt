@@ -1,0 +1,7 @@
+#Maya Carla Loleatha Anderson
+#maya.anderson86@myhunter.cuny.edu
+#this program computes the same behavior as a ornot gate,
+#using only AND, OR, and NOT gates
+
+
+out = (not(in1 or in2) and (not in1) or (not in2) and (in1 and in2))

@@ -1,0 +1,7 @@
+#Maya Carla Loleatha Anderson
+#maya.anderson86@myhunter.cuny.edu
+#this prints 'hello world' to shell
+
+#!/bin/bash
+echo "Hello, World"
+
